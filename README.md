@@ -1,4 +1,4 @@
-![292769185-e9863b55-f811-4850-8045-d31129cbf40c](https://github.com/Nithish23013509/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149038138/68cc1e27-3a38-4769-9905-408cecb38af7)![292769171-11eb80fe-1f9c-4357-b1c6-294a7dd20480](https://github.com/Nithish23013509/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149038138/882d79a1-e8e1-4c29-b51b-acd78f217c6c)# NAME: NITHISH S
+# NAME: NITHISH S
 # REFERENCE NUMBER:23013509
 # Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables

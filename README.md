@@ -147,6 +147,7 @@ endmodule
 ![292769220-ac2b29a9-44ad-4328-b2b1-3fd26e0e16d6](https://github.com/Nithish23013509/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149038138/4262a70c-111d-47ec-9c0f-adfe1f65557e)
 
 #TRUTH TABLE FOR JK-FLIPFLOP
+
 ![292769239-b3dd7c30-a15d-4a98-b1d3-50dfe7e3a377](https://github.com/Nithish23013509/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149038138/56033d5b-cb75-4adf-aa5a-217d7058d469)
 
 #TIMING DIAGRAM FOR JK-FLIPFLOP

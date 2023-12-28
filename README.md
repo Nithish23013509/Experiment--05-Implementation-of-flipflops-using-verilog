@@ -98,6 +98,7 @@ endmodul
 ![292769160-7d8c2735-9f97-4117-8555-dc664f6a0066](https://github.com/Nithish23013509/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149038138/ee870042-c4fb-42b6-995e-f903b375f0fd)
 
 # TRUTH TABLE FOR D-FLIPFLOP
+
 ![292769171-11eb80fe-1f9c-4357-b1c6-294a7dd20480](https://github.com/Nithish23013509/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149038138/63a45aca-d4ed-4760-a5df-0bca5dbb8b8e)
 # TIMING DIAGRAM FOR D-FLIPFLOP
 ![292769185-e9863b55-f811-4850-8045-d31129cbf40c](https://github.com/Nithish23013509/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149038138/7332000e-8d56-4937-bc74-7bfe41529c6a)
